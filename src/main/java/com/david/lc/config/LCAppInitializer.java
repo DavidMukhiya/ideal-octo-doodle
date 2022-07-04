@@ -1,4 +1,4 @@
-package com.david.ic.config;
+package com.david.lc.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

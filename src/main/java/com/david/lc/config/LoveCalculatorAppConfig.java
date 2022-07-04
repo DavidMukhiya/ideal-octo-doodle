@@ -1,4 +1,4 @@
-package com.david.ic.config;
+package com.david.lc.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -8,7 +8,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @EnableWebMvc
 @Configuration
-@ComponentScan(basePackages = "com.david.ic.controllers")
+@ComponentScan(basePackages = "com.david.lc.controllers")
 public class LoveCalculatorAppConfig {
 	//set up my view resolver
 	

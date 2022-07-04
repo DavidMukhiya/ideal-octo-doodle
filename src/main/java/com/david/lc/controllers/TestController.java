@@ -1,4 +1,4 @@
-package com.david.ic.controllers;
+package com.david.lc.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
