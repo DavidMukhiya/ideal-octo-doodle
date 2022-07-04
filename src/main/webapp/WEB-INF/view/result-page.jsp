@@ -11,7 +11,7 @@
 	
 	<hr>
 	<p>I am getting my Result Page</p>
-	<p>User Name is: ${userName}</p>
-	<p>Crush Name is: ${crushName}</p>
+	<p>User Name is: ${userInfo.userName}</p>
+	<p>Crush Name is: ${userInfo.crushName}</p>
 </body>
 </html>
